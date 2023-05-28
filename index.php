@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>COBA GIT TEST 2</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <h2>AKU PASTI BISA!!!</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>4
 </body>
 </html>
